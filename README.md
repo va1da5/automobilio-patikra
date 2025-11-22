@@ -104,7 +104,7 @@ Patikra buvo padalinta į dvi dalis, siekiant sutaupyti abiejų proceso dalyvių
    8. Patikrinkite apačia iš galo, kur dažniausiai labiausiai būna pažeista korozijos.
    9. Pažiūrėti iš priekio po automobiliu ar nesimato tepalo nuotekio. Ar yra visos apsaugos, tvirtinimai, ar viskas gerai laikosi.
    10. Patikrinkite ar nėra korozijos židinių po slenksčiais ar posparniais.
-   11. Patikrinkite VIN numerį ant kėbulo. [Rinkoje pasitaiko atvejų, kai perkalamas VIN kodas ir bandoma taip realizuoti pavogtą transporto priemonę.](https://youtu.be/hGB6QJbb_ik?t=966) Todėl labai svarbu prieš apžiūrą pasidomėti, kuriose vietose yra randamas [konkretaus automobilio modelio VIN numeris](https://vin-location.com/) ir apžiūros metu sutikrinti, ar visose vietose jis yra, ir nesimato galimų keitimo/pažeidimo žymių.
+   11. Patikrinkite VIN numerį ant kėbulo. [Rinkoje pasitaiko atvejų, kai perkalamas VIN numeris ir bandoma taip realizuoti pavogtą transporto priemonę.](https://youtu.be/hGB6QJbb_ik?t=966) Todėl labai svarbu prieš apžiūrą pasidomėti, kuriose vietose yra randamas [konkretaus automobilio modelio VIN numeris](https://vin-location.com/) ir apžiūros metu sutikrinti, ar visose vietose jis yra, ir nesimato galimų keitimo/pažeidimo žymių.
 
        <img src="./imgs/vin-locations.png" alt="VIN lokacijos" width="500px">
 
